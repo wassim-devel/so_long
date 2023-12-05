@@ -2,7 +2,9 @@
 so_long project at 42 School
 
 This project is a small 2D game that is written entirely in C, from the common core of 42 School.
+
 It uses the [MiniLibX](https://github.com/42Paris/minilibx-linux)
+
 Only open, close, read, write, malloc, free, perror, strerror, exit and MiniLibX functions were authorized.
 Because of that, the game runs on X11 or XWayland, and can't be Wayland-native.
 
